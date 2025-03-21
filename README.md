@@ -8,3 +8,7 @@ Esta estructura creada esta basada en las buenas practicas de Golang.
 - En la carpeta internal se almacerá la lógica de negocio (entidades, repositories, services...).
 - En la carpeta pkg se almacenará "código reutilizable", como conexión a base de datos o utilidades varias.
 - En la carpeta test se indicarán los test unitarios
+
+Paquetes instalados:
+- Gin: Gestion API
+- UUID: Ofrece la posibilidad de obtener un ID unico
